@@ -1,6 +1,5 @@
 # Simple_Wave_Game
-
-# Wave Game — Panduan Lengkap
+Simple Wave Game — Game arcade berbasis Python & Pygame terinspirasi dari mode Wave di Geometry Dash. Hindari rintangan segitiga dengan menahan/melepas klik mouse, bertahan selama mungkin, dan raih skor tertinggi di leaderboard lokal.
 
 ## Cara Install & Menjalankan
 
